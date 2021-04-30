@@ -20,6 +20,8 @@ package org.connectbot;
 import org.connectbot.util.VolumePreference;
 import org.connectbot.util.VolumePreferenceFragment;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.widget.Toast;
 import androidx.fragment.app.DialogFragment;
@@ -62,7 +64,8 @@ public class SettingsFragment extends PreferenceFragmentCompat {
 		button.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
 			@Override
 			public boolean onPreferenceClick(Preference preference) {
-				Toast.makeText(getContext(), "about", Toast.LENGTH_SHORT).show();
+				Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://raw.githubusercontent.com/imranj298/terminal-proving-ground/master/about.txt"));
+				startActivity(intent);
 				return true;
 			}
 		});
