@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\.cxx\cmake\googleDebug\armeabi-v7a'
+ninja: no work to do.

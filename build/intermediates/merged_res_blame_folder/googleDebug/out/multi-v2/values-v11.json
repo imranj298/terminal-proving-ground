@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\imran\\AndroidStudioProjects\\TerminalProvingGround\\app\\build\\intermediates\\incremental\\mergeGoogleDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\imran\\AndroidStudioProjects\\TerminalProvingGround\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "20,29,38",
+                        "startColumns": "1,1,1",
+                        "startOffsets": "807,1251,1704",
+                        "endLines": "27,36,40",
+                        "endColumns": "9,9,9",
+                        "endOffsets": "1246,1699,1825"
+                    },
+                    "to": {
+                        "startLines": "2,10,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,535,979",
+                        "endLines": "9,17,20",
+                        "endColumns": "9,9,9",
+                        "endOffsets": "530,974,1098"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.connectbot.debug"
+4    android:installLocation="auto"
+5    android:versionCode="10907092"
+6    android:versionName="1.9.7-92-c912fa0-main-dirty" >
+7
+8    <uses-sdk
+8-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:6:2-14
+9        android:minSdkVersion="14"
+9-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:6:2-14
+10        android:targetSdkVersion="28" />
+10-->[androidx.preference:preference:1.1.1] C:\Users\imran\.gradle\caches\transforms-3\21fc29658754132d0923bed2e9b2465f\transformed\preference-1.1.1\AndroidManifest.xml:22:9-38
+11
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:8:2-76
+12-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:8:19-73
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:9:2-74
+13-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:9:19-71
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:10:2-64
+14-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:10:19-61
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:11:2-63
+15-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:11:19-60
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:12:2-65
+16-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:12:19-62
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:13:2-78
+17-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:13:19-75
+18
+19    <uses-feature
+19-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:15:2-86
+20        android:name="android.hardware.touchscreen"
+20-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:15:16-59
+21        android:required="false" />
+21-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:15:60-84
+22
+23    <supports-screens
+23-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:17:2-23:34
+24        android:anyDensity="true"
+24-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:18:3-28
+25        android:largeScreens="true"
+25-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:19:3-30
+26        android:normalScreens="true"
+26-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:20:3-31
+27        android:resizeable="true"
+27-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:21:3-28
+28        android:smallScreens="true"
+28-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:22:3-30
+29        android:xlargeScreens="true" />
+29-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:23:3-31
+30
+31    <application
+31-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:25:2-181:16
+32        android:allowBackup="true"
+32-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:26:3-29
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.3.1] C:\Users\imran\.gradle\caches\transforms-3\6aa8d8745b894ad5e37be11edad6641a\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+34        android:backupAgent="org.connectbot.service.BackupAgent"
+34-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:27:3-45
+35        android:debuggable="true"
+36        android:description="@string/app_desc"
+36-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:28:3-41
+37        android:icon="@drawable/ic_important_devices_48px"
+37-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:29:3-53
+38        android:killAfterRestore="true"
+38-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:31:3-34
+39        android:label="@string/app_name"
+39-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:32:3-35
+40        android:roundIcon="@drawable/ic_important_devices_48px"
+40-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:30:3-58
+41        android:supportsRtl="true"
+41-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:33:3-29
+42        android:theme="@style/AppTheme" >
+42-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:34:3-34
+43        <meta-data
+43-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:36:3-38:26
+44            android:name="android.max_aspect"
+44-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:37:4-37
+45            android:value="2.1" />
+45-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:38:4-23
+46
+47        <activity
+47-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:40:3-61:14
+48            android:name="org.connectbot.HostListActivity"
+48-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:41:4-36
+49            android:label="@string/app_name"
+49-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:42:4-36
+50            android:launchMode="singleTop"
+50-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:43:4-34
+51            android:resizeableActivity="true" >
+51-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:44:4-37
+52            <intent-filter>
+52-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:45:4-48:20
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:46:5-56
+53-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:46:13-54
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:47:5-64
+55-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:47:15-62
+56            </intent-filter>
+57            <intent-filter>
+57-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:49:4-52:20
+58                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+58-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:50:5-67
+58-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:50:13-65
+59
+60                <category android:name="android.intent.category.DEFAULT" />
+60-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:5-63
+60-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:15-61
+61            </intent-filter>
+62            <intent-filter>
+62-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:53:4-60:20
+63                <action android:name="android.intent.action.PICK" />
+63-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:54:5-56
+63-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:54:13-54
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:5-63
+65-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:15-61
+66
+67                <data android:scheme="ssh" />
+67-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:5-33
+67-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:11-31
+68                <data android:scheme="telnet" />
+68-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:5-33
+68-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:11-31
+69                <data android:scheme="local" />
+69-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:5-33
+69-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:11-31
+70            </intent-filter>
+71        </activity>
+72        <activity
+72-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:63:3-71:14
+73            android:name="org.connectbot.PubkeyListActivity"
+73-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:64:4-38
+74            android:configChanges="keyboardHidden|orientation"
+74-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:65:4-54
+75            android:label="@string/title_pubkey_list" >
+75-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:66:4-45
+76            <meta-data
+76-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+77                android:name="android.support.PARENT_ACTIVITY"
+77-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+78                android:value="org.connectbot.HostListActivity" />
+78-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+79        </activity>
+80        <activity
+80-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:73:3-81:14
+81            android:name="org.connectbot.GeneratePubkeyActivity"
+81-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:74:4-42
+82            android:configChanges="keyboardHidden|orientation"
+82-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:75:4-54
+83            android:label="@string/title_pubkey_generate" >
+83-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:76:4-49
+84            <meta-data
+84-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+85                android:name="android.support.PARENT_ACTIVITY"
+85-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+86                android:value="org.connectbot.PubkeyListActivity" />
+86-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+87        </activity>
+88        <activity
+88-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:83:3-90:14
+89            android:name="org.connectbot.EditHostActivity"
+89-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:84:5-37
+90            android:label="@string/title_host_editor" >
+90-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:85:5-46
+91            <meta-data
+91-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+92                android:name="android.support.PARENT_ACTIVITY"
+92-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+93                android:value="org.connectbot.HostListActivity" />
+93-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+94        </activity>
+95        <activity
+95-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:92:3-100:14
+96            android:name="org.connectbot.PortForwardListActivity"
+96-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:93:4-43
+97            android:configChanges="keyboardHidden|orientation"
+97-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:94:4-54
+98            android:label="@string/title_port_forwards_list" >
+98-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:95:4-52
+99            <meta-data
+99-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+100                android:name="android.support.PARENT_ACTIVITY"
+100-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+101                android:value="org.connectbot.HostListActivity" />
+101-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+102        </activity>
+103        <activity
+103-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:102:3-110:14
+104            android:name="org.connectbot.SettingsActivity"
+104-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:103:4-36
+105            android:configChanges="keyboardHidden|orientation"
+105-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:104:4-54
+106            android:label="@string/title_settings" >
+106-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:105:4-42
+107            <meta-data
+107-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+108                android:name="android.support.PARENT_ACTIVITY"
+108-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+109                android:value="org.connectbot.HostListActivity" />
+109-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+110        </activity>
+111        <activity
+111-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:112:3-120:14
+112            android:name="org.connectbot.HelpActivity"
+112-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:113:4-32
+113            android:configChanges="keyboardHidden|orientation"
+113-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:114:4-54
+114            android:label="@string/title_help" >
+114-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:115:4-38
+115            <meta-data
+115-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+116                android:name="android.support.PARENT_ACTIVITY"
+116-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+117                android:value="org.connectbot.HostListActivity" />
+117-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+118        </activity>
+119        <activity
+119-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:122:3-130:14
+120            android:name="org.connectbot.ColorsActivity"
+120-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:123:4-34
+121            android:configChanges="keyboardHidden|orientation"
+121-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:124:4-54
+122            android:label="@string/title_colors" >
+122-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:125:4-40
+123            <meta-data
+123-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+124                android:name="android.support.PARENT_ACTIVITY"
+124-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+125                android:value="org.connectbot.HostListActivity" />
+125-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+126        </activity>
+127        <activity
+127-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:132:3-140:14
+128            android:name="org.connectbot.EulaActivity"
+128-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:133:4-32
+129            android:configChanges="keyboardHidden|orientation"
+129-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:134:4-54
+130            android:label="@string/terms_and_conditions" >
+130-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:135:4-48
+131            <meta-data
+131-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+132                android:name="android.support.PARENT_ACTIVITY"
+132-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+133                android:value="org.connectbot.HelpActivity" />
+133-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+134        </activity>
+135        <activity
+135-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:142:3-149:14
+136            android:name="org.connectbot.HintsActivity"
+136-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:143:4-33
+137            android:label="@string/hints" >
+137-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:144:4-33
+138            <meta-data
+138-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+139                android:name="android.support.PARENT_ACTIVITY"
+139-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+140                android:value="org.connectbot.HelpActivity" />
+140-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+141        </activity>
+142
+143        <service
+143-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:151:3-154:48
+144            android:name="org.connectbot.service.TerminalManager"
+144-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:152:4-57
+145            android:configChanges="keyboardHidden|orientation"
+145-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:153:4-54
+146            android:description="@string/service_desc" />
+146-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:154:4-46
+147
+148        <activity
+148-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:156:3-175:14
+149            android:name="org.connectbot.ConsoleActivity"
+149-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:157:4-35
+150            android:configChanges="keyboardHidden|orientation"
+150-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:158:4-54
+151            android:launchMode="singleTop"
+151-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:159:4-34
+152            android:theme="@style/Theme.AppCompat"
+152-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:160:4-42
+153            android:windowSoftInputMode="stateAlwaysVisible|adjustResize" >
+153-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:161:4-65
+154            <intent-filter>
+154-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:162:4-174:20
+155                <action android:name="android.intent.action.VIEW" />
+155-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:163:5-56
+155-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:163:13-54
+156
+157                <category android:name="android.intent.category.DEFAULT" />
+157-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:5-63
+157-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:15-61
+158                <category android:name="android.intent.category.BROWSABLE" />
+158-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:166:5-65
+158-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:166:15-63
+159
+160                <data android:scheme="ssh" />
+160-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:5-33
+160-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:11-31
+161                <data android:scheme="telnet" />
+161-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:5-33
+161-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:11-31
+162                <data android:scheme="local" />
+162-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:5-33
+162-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:11-31
+163                <!-- format:  ssh://user@host:port/#nickname -->
+164                <!-- format:  telnet://host:port/#nickname -->
+165                <!-- format:  local:// -->
+166            </intent-filter>
+167        </activity>
+168
+169        <meta-data
+169-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:177:3-179:72
+170            android:name="com.google.android.backup.api_key"
+170-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:178:4-52
+171            android:value="AEdPqrEAAAAIDlFz9nSUr2g0gSytW0t2cNnYAGHDkptlVohsBA" />
+171-->C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:179:4-70
+172        <meta-data
+172-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+173            android:name="com.google.android.gms.version"
+173-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+174            android:value="@integer/google_play_services_version" />
+174-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+175    </application>
+176
+177</manifest>

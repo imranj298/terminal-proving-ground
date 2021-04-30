@@ -1,0 +1,6 @@
+# ninja log v5
+1	416	640030013	CMakeFiles/com_google_ase_Exec.dir/src/main/cpp/com_google_ase_Exec.cpp.o	2b43236a60fb62f1
+419	556	640030013	../../../../build/intermediates/cmake/googleDebug/obj/arm64-v8a/libcom_google_ase_Exec.so	cdb4b43d8a8f17b5
+0	12	0	clean	d29d8030aead9403
+4	240	641143017	CMakeFiles/com_google_ase_Exec.dir/src/main/cpp/com_google_ase_Exec.cpp.o	2b43236a60fb62f1
+240	590	641143018	../../../../build/intermediates/cmake/googleDebug/obj/arm64-v8a/libcom_google_ase_Exec.so	cdb4b43d8a8f17b5

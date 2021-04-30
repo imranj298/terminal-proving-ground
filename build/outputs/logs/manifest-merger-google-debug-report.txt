@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\imran\.gradle\caches\transforms-3\21fc29658754132d0923bed2e9b2465f\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\imran\.gradle\caches\transforms-3\2d0539f3d5136a10f9bf936fac2b2409\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\fe655be9225a8c6111fd73c69d57af0f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\2cb8937a96fb7964da2a9a11b90f4882\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\imran\.gradle\caches\transforms-3\d0da6acfa177f3f29f586232d99d4a70\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\2d120298c908951a61fe604814e58a31\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\2b90d954abb67eaf0df05f1f6ce15e7c\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\imran\.gradle\caches\transforms-3\f6d8dfd0d1ffcb9aeca367b08dfc4eea\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\98f97db27256657f72edbc2630e40f1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\679a39c402838ed4787126dcf83e9b91\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\e3e952f76bd8c836e725ac6247226274\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\8974590eea1c0256d6d99abd1d378ee6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\2e0a2a0d52a0290470de35b1e3613f3d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\ebb7ac2ff47f6e39218d9fedf6c2e70a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\fa33f8d4605a911574f8690c163140cc\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\6b5c3293a571c469fcd10b1ce489923e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\e868f534a05e0a2cf532e8809e9a8164\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\8b61f2269c83174990f7c3f6c15bf6c1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\79be9471dea70ba3ab0aefcb9717562b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\imran\.gradle\caches\transforms-3\6aa8d8745b894ad5e37be11edad6641a\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\e0ecd4f9f751201fa3c0b5519df43664\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\41b9d527d0d2f0f5eaa5a9b57a0eb977\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\51890ee6968b0ca0d6675d66e8441c84\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\a3e8691d2da1b871ec3385fa9bf4a765\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\2612f72a083809be76ae8fafb0bb6be2\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\10098f087e85a6725b2505e565f805e5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\0fd382f7e8a7b39a0948c96cafa3f88c\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\0ad4695a466f6b240e75fcf82a295645\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\imran\.gradle\caches\transforms-3\3588500b469c35a92c0e1c5bd2e98697\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\9e6e5b454516fba8f870cd831fea561b\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\imran\.gradle\caches\transforms-3\b582e7788b4dd7d55505a0a2b3e27af9\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\1a57dd28f7f5aadd7991e60a2629fc07\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\e8525cc067a8b6525dcc22797b51ec2d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\98b7fe9f042f127ec7a91d54820cfdae\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\73a80999c6023af36654301fcf291ce1\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+	package
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:3:2-26
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:1-182:12
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:4:2-32
+uses-sdk
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:6:2-14
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:6:2-14
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\imran\.gradle\caches\transforms-3\21fc29658754132d0923bed2e9b2465f\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\imran\.gradle\caches\transforms-3\21fc29658754132d0923bed2e9b2465f\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\imran\.gradle\caches\transforms-3\2d0539f3d5136a10f9bf936fac2b2409\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\imran\.gradle\caches\transforms-3\2d0539f3d5136a10f9bf936fac2b2409\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\fe655be9225a8c6111fd73c69d57af0f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\fe655be9225a8c6111fd73c69d57af0f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\2cb8937a96fb7964da2a9a11b90f4882\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\2cb8937a96fb7964da2a9a11b90f4882\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\imran\.gradle\caches\transforms-3\d0da6acfa177f3f29f586232d99d4a70\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\imran\.gradle\caches\transforms-3\d0da6acfa177f3f29f586232d99d4a70\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\2d120298c908951a61fe604814e58a31\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\2d120298c908951a61fe604814e58a31\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\2b90d954abb67eaf0df05f1f6ce15e7c\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\2b90d954abb67eaf0df05f1f6ce15e7c\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\imran\.gradle\caches\transforms-3\f6d8dfd0d1ffcb9aeca367b08dfc4eea\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\imran\.gradle\caches\transforms-3\f6d8dfd0d1ffcb9aeca367b08dfc4eea\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\98f97db27256657f72edbc2630e40f1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\98f97db27256657f72edbc2630e40f1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\679a39c402838ed4787126dcf83e9b91\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\679a39c402838ed4787126dcf83e9b91\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\e3e952f76bd8c836e725ac6247226274\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\imran\.gradle\caches\transforms-3\e3e952f76bd8c836e725ac6247226274\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\8974590eea1c0256d6d99abd1d378ee6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\8974590eea1c0256d6d99abd1d378ee6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\2e0a2a0d52a0290470de35b1e3613f3d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\2e0a2a0d52a0290470de35b1e3613f3d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\ebb7ac2ff47f6e39218d9fedf6c2e70a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\ebb7ac2ff47f6e39218d9fedf6c2e70a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\fa33f8d4605a911574f8690c163140cc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\fa33f8d4605a911574f8690c163140cc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\6b5c3293a571c469fcd10b1ce489923e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\6b5c3293a571c469fcd10b1ce489923e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\e868f534a05e0a2cf532e8809e9a8164\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\e868f534a05e0a2cf532e8809e9a8164\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\8b61f2269c83174990f7c3f6c15bf6c1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\8b61f2269c83174990f7c3f6c15bf6c1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\79be9471dea70ba3ab0aefcb9717562b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\79be9471dea70ba3ab0aefcb9717562b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\imran\.gradle\caches\transforms-3\6aa8d8745b894ad5e37be11edad6641a\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\imran\.gradle\caches\transforms-3\6aa8d8745b894ad5e37be11edad6641a\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\e0ecd4f9f751201fa3c0b5519df43664\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\e0ecd4f9f751201fa3c0b5519df43664\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\41b9d527d0d2f0f5eaa5a9b57a0eb977\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\41b9d527d0d2f0f5eaa5a9b57a0eb977\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\51890ee6968b0ca0d6675d66e8441c84\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\51890ee6968b0ca0d6675d66e8441c84\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\a3e8691d2da1b871ec3385fa9bf4a765\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\a3e8691d2da1b871ec3385fa9bf4a765\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\2612f72a083809be76ae8fafb0bb6be2\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\2612f72a083809be76ae8fafb0bb6be2\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\10098f087e85a6725b2505e565f805e5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\10098f087e85a6725b2505e565f805e5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\0fd382f7e8a7b39a0948c96cafa3f88c\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\0fd382f7e8a7b39a0948c96cafa3f88c\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\0ad4695a466f6b240e75fcf82a295645\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\0ad4695a466f6b240e75fcf82a295645\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\imran\.gradle\caches\transforms-3\3588500b469c35a92c0e1c5bd2e98697\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\imran\.gradle\caches\transforms-3\3588500b469c35a92c0e1c5bd2e98697\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\9e6e5b454516fba8f870cd831fea561b\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\imran\.gradle\caches\transforms-3\9e6e5b454516fba8f870cd831fea561b\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\imran\.gradle\caches\transforms-3\b582e7788b4dd7d55505a0a2b3e27af9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\imran\.gradle\caches\transforms-3\b582e7788b4dd7d55505a0a2b3e27af9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\1a57dd28f7f5aadd7991e60a2629fc07\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\1a57dd28f7f5aadd7991e60a2629fc07\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\e8525cc067a8b6525dcc22797b51ec2d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\e8525cc067a8b6525dcc22797b51ec2d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\98b7fe9f042f127ec7a91d54820cfdae\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\98b7fe9f042f127ec7a91d54820cfdae\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\73a80999c6023af36654301fcf291ce1\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\73a80999c6023af36654301fcf291ce1\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:6:2-14
+	android:targetSdkVersion
+		ADDED from [androidx.preference:preference:1.1.1] C:\Users\imran\.gradle\caches\transforms-3\21fc29658754132d0923bed2e9b2465f\transformed\preference-1.1.1\AndroidManifest.xml:22:9-38
+	android:minSdkVersion
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:6:2-14
+		INJECTED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:8:2-76
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:8:19-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:9:2-74
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:9:19-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:10:2-64
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:10:19-61
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:11:2-63
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:11:19-60
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:12:2-65
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:12:19-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:13:2-78
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:13:19-75
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:15:2-86
+	android:required
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:15:60-84
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:15:16-59
+supports-screens
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:17:2-23:34
+	android:largeScreens
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:19:3-30
+	android:smallScreens
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:22:3-30
+	android:normalScreens
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:20:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:23:3-31
+	android:resizeable
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:21:3-28
+	android:anyDensity
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:18:3-28
+application
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:25:2-181:16
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\imran\.gradle\caches\transforms-3\2d0539f3d5136a10f9bf936fac2b2409\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\imran\.gradle\caches\transforms-3\2d0539f3d5136a10f9bf936fac2b2409\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\imran\.gradle\caches\transforms-3\d0da6acfa177f3f29f586232d99d4a70\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\imran\.gradle\caches\transforms-3\d0da6acfa177f3f29f586232d99d4a70\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\imran\.gradle\caches\transforms-3\6aa8d8745b894ad5e37be11edad6641a\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\imran\.gradle\caches\transforms-3\6aa8d8745b894ad5e37be11edad6641a\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\e0ecd4f9f751201fa3c0b5519df43664\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\e0ecd4f9f751201fa3c0b5519df43664\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:backupAgent
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:27:3-45
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\imran\.gradle\caches\transforms-3\6aa8d8745b894ad5e37be11edad6641a\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:33:3-29
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:32:3-35
+	android:killAfterRestore
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:31:3-34
+	android:roundIcon
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:30:3-58
+	android:icon
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:29:3-53
+	android:allowBackup
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:26:3-29
+	android:description
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:28:3-41
+	android:theme
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:34:3-34
+meta-data#android.max_aspect
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:36:3-38:26
+	android:value
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:38:4-23
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:37:4-37
+activity#org.connectbot.HostListActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:40:3-61:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:42:4-36
+	android:launchMode
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:43:4-34
+	android:resizeableActivity
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:44:4-37
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:41:4-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:45:4-48:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:46:5-56
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:46:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:47:5-64
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:47:15-62
+intent-filter#action:name:android.intent.action.CREATE_SHORTCUT+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:49:4-52:20
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:50:5-67
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:50:13-65
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:5-63
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:51:15-61
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:scheme:local+data:scheme:ssh+data:scheme:telnet
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:53:4-60:20
+action#android.intent.action.PICK
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:54:5-56
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:54:13-54
+data
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:5-33
+	android:scheme
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:57:11-31
+activity#org.connectbot.PubkeyListActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:63:3-71:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:66:4-45
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:65:4-54
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:64:4-38
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:68:4-70:54
+	android:value
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:70:5-52
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:69:5-51
+activity#org.connectbot.GeneratePubkeyActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:73:3-81:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:76:4-49
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:75:4-54
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:74:4-42
+activity#org.connectbot.EditHostActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:83:3-90:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:85:5-46
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:84:5-37
+activity#org.connectbot.PortForwardListActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:92:3-100:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:95:4-52
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:94:4-54
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:93:4-43
+activity#org.connectbot.SettingsActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:102:3-110:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:105:4-42
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:104:4-54
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:103:4-36
+activity#org.connectbot.HelpActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:112:3-120:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:115:4-38
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:114:4-54
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:113:4-32
+activity#org.connectbot.ColorsActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:122:3-130:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:125:4-40
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:124:4-54
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:123:4-34
+activity#org.connectbot.EulaActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:132:3-140:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:135:4-48
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:134:4-54
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:133:4-32
+activity#org.connectbot.HintsActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:142:3-149:14
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:144:4-33
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:143:4-33
+service#org.connectbot.service.TerminalManager
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:151:3-154:48
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:153:4-54
+	android:description
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:154:4-46
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:152:4-57
+activity#org.connectbot.ConsoleActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:156:3-175:14
+	android:launchMode
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:159:4-34
+	android:windowSoftInputMode
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:161:4-65
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:158:4-54
+	android:theme
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:160:4-42
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:157:4-35
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:local+data:scheme:ssh+data:scheme:telnet
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:162:4-174:20
+action#android.intent.action.VIEW
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:163:5-56
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:163:13-54
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:166:5-65
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:166:15-63
+meta-data#com.google.android.backup.api_key
+ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:177:3-179:72
+	android:value
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:179:4-70
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\src\main\AndroidManifest.xml:178:4-52
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\imran\.gradle\caches\transforms-3\2f2dd734ca269fd06380d87926c30ae2\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58

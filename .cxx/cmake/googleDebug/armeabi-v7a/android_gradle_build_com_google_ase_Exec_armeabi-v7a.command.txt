@@ -1,0 +1,7 @@
+Executable : C:\Users\imran\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\imran\AndroidStudioProjects\TerminalProvingGround\app\.cxx\cmake\googleDebug\armeabi-v7a
+com_google_ase_Exec
+jvmArgs : 
+

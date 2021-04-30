@@ -1,0 +1,3 @@
+C:/Users/imran/AndroidStudioProjects/TerminalProvingGround/app/.cxx/cmake/googleDebug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/imran/AndroidStudioProjects/TerminalProvingGround/app/.cxx/cmake/googleDebug/x86_64/CMakeFiles/com_google_ase_Exec.dir
+C:/Users/imran/AndroidStudioProjects/TerminalProvingGround/app/.cxx/cmake/googleDebug/x86_64/CMakeFiles/rebuild_cache.dir
