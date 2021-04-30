@@ -61,13 +61,10 @@ public class SettingsFragment extends PreferenceFragmentCompat {
 
 		Preference button = findPreference(getString(R.string.aboutButton));
 		assert button != null;
-		button.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
-			@Override
-			public boolean onPreferenceClick(Preference preference) {
-				Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://raw.githubusercontent.com/imranj298/terminal-proving-ground/master/about.txt"));
-				startActivity(intent);
-				return true;
-			}
+		button.setOnPreferenceClickListener(preference -> {
+			Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://raw.githubusercontent.com/imranj298/terminal-proving-ground/master/about.txt"));
+			startActivity(intent);
+			return true;
 		});
 	}
 }
