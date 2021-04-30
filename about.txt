@@ -1,0 +1,7 @@
+THE TERMINAL PROVING GROUND
+
+Experiment with the Linux command line via an Android app
+
+NOTE: This app requires an instance of the Docker container to be running for full functionality
+
+Project developed by Imran Jamal B724509 2020-2021
