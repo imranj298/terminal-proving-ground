@@ -30,6 +30,6 @@ A Docker public repository was made for this project, available [here](https://h
 
 To pull from the repository, simply run `docker pull ij298/fyp_ssh`. This will pull the latest build.
 
-Next run `docker run -it --name ssh_container -p 9090:22 ij298/fyp_ssh`. This will run the container and expose port 9090 for client connection. The contianer will have the name `ssh_container`.
+Next run `docker run -it --name ssh_container -p 9090:22 ij298/fyp_ssh`. This will run the container and expose port 9090 for client connection. The container will have the name `ssh_container`.
 
 Feel free to keep the command line window open. You can exit by executing `exit`.
